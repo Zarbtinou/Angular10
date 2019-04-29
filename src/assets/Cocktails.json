@@ -1,0 +1,14 @@
+[
+    {
+      "name":"Mojito","price":10,"img":"https://static.cuisineaz.com/400x320/i14978-recette-de-mojito.jpeg"
+    },
+    {
+      "name":"Caipirina","price":12,"img":"https://static.cuisineaz.com/400x320/i140757-.jpeg"
+    },
+    {
+      "name":"Sex on the beach","price":7,"img":"http://www.cookingtobeclever.com/wp-content/uploads/2014/03/sex-on-the-beach-cocktail.jpg"
+    },
+    {
+      "name":"Margarita","price":4,"img":"https://cdn.liquor.com/wp-content/uploads/2017/07/05150949/Frozen-Margarita-720x720-recipe.jpg"
+    }
+  ]
